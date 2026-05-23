@@ -1,5 +1,6 @@
 from flask import Flask, request, jsonify, render_template_string
 import requests as http_requests
+import os
 
 app = Flask(__name__)
 
@@ -338,15 +339,15 @@ def submit():
 
 
 if __name__ == "__main__":
+    port = int(os.environ.get("PORT", 5555))
     import socket
-    hostname = socket.gethostname()
     try:
-        local_ip = socket.gethostbyname(hostname)
+        local_ip = socket.gethostbyname(socket.gethostname())
     except Exception:
         local_ip = "127.0.0.1"
     print(f"\n{'='*50}")
     print(f"  Application Factures démarrée !")
-    print(f"  Local  : http://localhost:5555")
-    print(f"  Réseau : http://{local_ip}:5555")
+    print(f"  Local  : http://localhost:{port}")
+    print(f"  Réseau : http://{local_ip}:{port}")
     print(f"{'='*50}\n")
-    app.run(host="0.0.0.0", port=5555, debug=False)
+    app.run(host="0.0.0.0", port=port, debug=False)
