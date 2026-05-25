@@ -65,7 +65,7 @@ n8n — Workflow automatique
 ### Depuis n'importe où (téléphone, ordinateur, hors WiFi)
 
 1. Ouvrez le navigateur
-2. Allez sur : **`https://factures-app.onrender.com`**
+2. Allez sur : **`https://factures-app-ob80.onrender.com`**
 3. Appuyez sur la zone "Choisir un fichier" → sélectionnez votre PDF
 4. Appuyez sur le bouton de la société concernée
 5. Attendez le message ✅ "Facture envoyée avec succès"
@@ -82,7 +82,7 @@ URL locale : **`http://192.168.1.26:5555`**
 | Brique | Où | URL / Accès |
 |--------|----|-------------|
 | **Code source** | GitHub | `github.com/nvdiffusionrun/factures-app` |
-| **Application web** | Render.com | `https://factures-app.onrender.com` |
+| **Application web** | Render.com | `https://factures-app-ob80.onrender.com` |
 | **Workflows automatiques** | n8n (serveur OVH) | `n8n.srv867860.hstgr.cloud` |
 | **Stockage fichiers** | Google Drive | Compte lié à n8n |
 
