@@ -17,7 +17,7 @@ WORKFLOWS = {
     },
     "nv_diffusion": {
         "name": "NV Diffusion",
-        "url": "https://n8n.srv867860.hstgr.cloud/form-test/d5780ad8-a389-4e08-89a1-4d051ab67140",
+        "url": "https://n8n.srv867860.hstgr.cloud/form/d5780ad8-a389-4e08-89a1-4d051ab67140",
         "file_field": "attachment_0",
         "color_from": "#4ECDC4",
         "color_to": "#1289A7",
@@ -25,7 +25,7 @@ WORKFLOWS = {
     },
     "jovitys": {
         "name": "JOVITYS",
-        "url": "https://n8n.srv867860.hstgr.cloud/form-test/d5780ad8-a389-4e08-89a1-4d051ab67140",
+        "url": "https://n8n.srv867860.hstgr.cloud/form/d5780ad8-a389-4e08-89a1-4d051ab67140",
         "file_field": "attachment_0",
         "color_from": "#A29BFE",
         "color_to": "#6C5CE7",
@@ -33,7 +33,7 @@ WORKFLOWS = {
     },
     "valsyone": {
         "name": "VALSYONE",
-        "url": "https://n8n.srv867860.hstgr.cloud/form-test/d5780ad8-a389-4e08-89a1-4d051ab67140",
+        "url": "https://n8n.srv867860.hstgr.cloud/form/d5780ad8-a389-4e08-89a1-4d051ab67140",
         "file_field": "attachment_0",
         "color_from": "#55EFC4",
         "color_to": "#00B894",
