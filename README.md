@@ -50,7 +50,7 @@ n8n — Workflow automatique
 
 | Bouton | Société | Webhook ID n8n |
 |--------|---------|----------------|
-| 🔴 M | **MALAIKA** | `3cae1a91-9841-4150-910e-e7bcd7d9523c` |
+| 🔴 M | **MALAIKA** | `8a007255-f03d-4d19-9454-7856753481dd` |
 | 🔵 N | **NV Diffusion** | `3f72f3f3-a6b9-4df0-829c-be7d4ae6f2b8` |
 | 🟣 J | **JOVITYS** | ⚠️ Temporaire = NV Diffusion |
 | 🟢 V | **VALSYONE** | ⚠️ Temporaire = NV Diffusion |

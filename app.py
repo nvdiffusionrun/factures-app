@@ -9,7 +9,7 @@ app = Flask(__name__)
 WORKFLOWS = {
     "malaika": {
         "name": "MALAIKA",
-        "url": "https://n8n.srv867860.hstgr.cloud/form/3cae1a91-9841-4150-910e-e7bcd7d9523c",
+        "url": "https://n8n.srv867860.hstgr.cloud/form/8a007255-f03d-4d19-9454-7856753481dd",
         "file_field": "attachment_0",
         "color_from": "#FF6B6B",
         "color_to": "#EE5A24",
